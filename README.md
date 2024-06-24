@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/wifedha" target="blank"><img src="https://img.shields.io/twitter/follow/wifedha?logo=twitter&style=for-the-badge" alt="wifedha" /></a> </p>
 
+- 📄 Know about my experiences [https://github.com/WeBstwr/My-Resume](https://github.com/WeBstwr/My-Resume)
+
 - 🔭 I’m currently working on [A Restaurant Template](https://github.com/WeBstwr/Webster-s-Restaurant)
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WeBstwr/My-Resume](https://github.com/WeBstwr/My-Resume)
-
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, REACT, Express.JS**
 
 - 📫 How to reach me **ifedhawebster@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/WeBstwr/My-Resume](https://github.com/WeBstwr/My-Resume)
 
 - ⚡ Fun fact **I think I am a good swimmer**
 
