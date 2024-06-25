@@ -30,6 +30,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webstwr&show_icons=true&locale=en" alt="webstwr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webstwr&show_icons=true&locale=en&bg_color=00000000&title_color=FF4500&text_color=28a745&icon_color=FF4500" alt="webstwr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webstwr&" alt="webstwr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webstwr&background=00000000&stroke=28a745&ring=FF4500&fire=FF4500&currStreakNum=FF4500&sideNums=28a745&currStreakLabel=28a745&sideLabels=28a745&dates=28a745" alt="webstwr" /></p>
