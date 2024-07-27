@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **HTML, CSS, JS, REACT, Express.JS**
+- 💬 Ask me about **HTML, CSS, JS, REACT, Express.JS, PostreSQL**
 
 - 📫 How to reach me **ifedhawebster@gmail.com**
 
