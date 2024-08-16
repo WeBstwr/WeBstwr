@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/wifedha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wifedha" height="30" width="40" /></a>
 <a href="https:https://www.linkedin.com/in/webster-safala-9147a2245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="webster safala" height="30" width="40" /></a>
-<a href="https://fb.com/webster_ifedha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="webster_ifedha" height="30" width="40" /></a>
 <a href="https://instagram.com/webster_ifedha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webster_ifedha" height="30" width="40" /></a>
 </p>
 
