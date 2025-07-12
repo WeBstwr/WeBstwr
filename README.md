@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/wifedha" target="blank"><img src="https://img.shields.io/twitter/follow/wifedha?logo=twitter&style=for-the-badge" alt="wifedha" /></a> </p>
 
-- 🔭 I’m currently working on [A Quiz Application](https://github.com/WeBstwr/Quiz-Application)
+- 🔭 I’m currently working on [A Simple E-Commerce Store](https://github.com/WeBstwr/Simple-E-commerce-Store)
 
 - 🌱 I’m currently learning **Frameworks**
 
