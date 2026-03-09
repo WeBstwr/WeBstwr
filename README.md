@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/wifedha" target="blank"><img src="https://img.shields.io/twitter/follow/wifedha?logo=twitter&style=for-the-badge" alt="wifedha" /></a> </p>
 
-- 🔭 I’m currently working on [Project Management Tool](https://github.com/WeBstwr/Project-Management-Tool)
+- 🔭 I’m currently working on [WBT Global Technologies](https://github.com/WeBstwr/WBT-Global-Technologies)
 
 - 🌱 I’m currently learning **Frameworks**
 
